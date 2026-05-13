@@ -1,0 +1,18 @@
+{
+  "name": "Algerian Ecom Command Center",
+  "short_name": "AECC",
+  "description": "Operations brain for Algerian COD e-commerce: profit, returns, ads, delivery, and one business health score.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#2f87ff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
